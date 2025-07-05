@@ -15,25 +15,35 @@ A fully-featured SaaS Expense Tracker built with MERN Stack (MongoDB, Express, R
 ✅ Authentication & Authorization
 
 -Register & Login with JWT
+
 -Google Sign-In via OAuth 2.0
+
 -Email verification with OTP
+
 -Password reset with email OTP
 
 
 ✅ Expense Management
 
 -Add, view, update, and delete expenses
+
 -Categorize and note each expense
+
 -Real-time UI updates
+
 -Scrollable list with a clean responsive design
 
 
 ✅ Tech Stack
 
 -Frontend: React, Tailwind CSS
+
 -Backend: Node.js, Express.js
+
 -Database: MongoDB (Mongoose)
+
 -Authentication: JWT, Google OAuth
+
 -Email: Nodemailer with Gmail SMTP
 
 ⚙️ Setup Instructions
