@@ -1,8 +1,67 @@
-# React + Vite
+📊 Expense Map SaaS Platform
+A fully-featured SaaS Expense Tracker built with MERN Stack (MongoDB, Express, React, Node.js) and enhanced with:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔐 Secure Authentication (JWT + Google OAuth)
 
-Currently, two official plugins are available:
+👤 User Dashboard with email verification
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧾 Expense tracking with categories, notes, and filtering
+
+💼 Admin & User Panels (coming soon)
+
+📈 Summary & insights page (coming soon)
+
+🚀 Features
+✅ Authentication & Authorization
+
+Register & Login with JWT
+
+Google Sign-In via OAuth 2.0
+
+Email verification with OTP
+
+Password reset with email OTP
+
+✅ Expense Management
+
+Add, view, update, and delete expenses
+
+Categorize and note each expense
+
+Real-time UI updates
+
+Scrollable list with a clean responsive design
+
+✅ Tech Stack
+
+Frontend: React, Tailwind CSS
+
+Backend: Node.js, Express.js
+
+Database: MongoDB (Mongoose)
+
+Authentication: JWT, Google OAuth
+
+Email: Nodemailer with Gmail SMTP
+
+⚙️ Setup Instructions
+Clone the Repository
+```
+git clone https://github.com/your-username/expense-tracker-saas.git
+cd expense-tracker-saas
+```
+
+Setup Backend
+```
+cd backend
+npm install
+cp .env.example .env   # Fill in MongoDB URI, JWT, Google OAuth creds
+npm run dev
+```
+
+Setup Frontend
+```
+npm install
+npm run dev
+```
+
