@@ -3,9 +3,13 @@
 A fully-featured SaaS Expense Tracker built with MERN Stack (MongoDB, Express, React, Node.js) and enhanced with:
 
 -🔐 Secure Authentication (JWT + Google OAuth)
+
 -👤 User Dashboard with email verification
+
 -🧾 Expense tracking with categories, notes, and filtering
+
 -📈 Summary & insights page 
+
 -💼 Admin & User Panels (coming soon)
 
 
