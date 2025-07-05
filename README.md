@@ -1,48 +1,40 @@
-📊 Expense Map SaaS Platform
+📊 **Expense Map SaaS Platform**
+
 A fully-featured SaaS Expense Tracker built with MERN Stack (MongoDB, Express, React, Node.js) and enhanced with:
 
-🔐 Secure Authentication (JWT + Google OAuth)
+-🔐 Secure Authentication (JWT + Google OAuth)
+-👤 User Dashboard with email verification
+-🧾 Expense tracking with categories, notes, and filtering
+-📈 Summary & insights page 
+-💼 Admin & User Panels (coming soon)
 
-👤 User Dashboard with email verification
-
-🧾 Expense tracking with categories, notes, and filtering
-
-💼 Admin & User Panels (coming soon)
-
-📈 Summary & insights page (coming soon)
 
 🚀 Features
+
+
 ✅ Authentication & Authorization
 
-Register & Login with JWT
+-Register & Login with JWT
+-Google Sign-In via OAuth 2.0
+-Email verification with OTP
+-Password reset with email OTP
 
-Google Sign-In via OAuth 2.0
-
-Email verification with OTP
-
-Password reset with email OTP
 
 ✅ Expense Management
 
-Add, view, update, and delete expenses
+-Add, view, update, and delete expenses
+-Categorize and note each expense
+-Real-time UI updates
+-Scrollable list with a clean responsive design
 
-Categorize and note each expense
-
-Real-time UI updates
-
-Scrollable list with a clean responsive design
 
 ✅ Tech Stack
 
-Frontend: React, Tailwind CSS
-
-Backend: Node.js, Express.js
-
-Database: MongoDB (Mongoose)
-
-Authentication: JWT, Google OAuth
-
-Email: Nodemailer with Gmail SMTP
+-Frontend: React, Tailwind CSS
+-Backend: Node.js, Express.js
+-Database: MongoDB (Mongoose)
+-Authentication: JWT, Google OAuth
+-Email: Nodemailer with Gmail SMTP
 
 ⚙️ Setup Instructions
 Clone the Repository
